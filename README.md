@@ -19,6 +19,7 @@ En caso de problemas o actualizaciones, el codigo del dispositivo se puede encon
 ## Agradecimientos
 
 ### Patrocinadores
+- Universidad Autonoma de la Laguna (UAL)
 - Gilio
 - Frater
 
